@@ -2,65 +2,52 @@
 📌 Overview
 
 This project focuses on analyzing customer purchasing behavior using Python, SQL, and Power BI.
-The goal is to uncover patterns, segment customers, and generate actionable insights for better business decision-making.
+The objective is to identify patterns, segment customers, and generate meaningful insights to support business decision-making.
 
 📂 Dataset
-Dataset contains customer purchase data
-Includes features like:
+Contains customer purchase data
+Key features include:
 Customer ID
 Product Category
 Purchase Frequency
 Review Ratings
-Price & Quantity
+Price and Quantity
 🛠️ Tools & Technologies
-Python (Pandas, NumPy) → Data cleaning & analysis
-SQL (PostgreSQL/MySQL/SQL Server) → Data querying
-Power BI → Interactive dashboards & visualization
-Jupyter Notebook → Analysis workflow
+Python (Pandas, NumPy) – Data cleaning and analysis
+SQL – Data querying and extraction
+Power BI – Data visualization and dashboard creation
+Jupyter Notebook – Analysis workflow
 ⚙️ Project Steps
 1. Data Loading
-Imported dataset using Python (Pandas)
+Loaded dataset using Python
 2. Data Cleaning
 Handled missing values
 Removed duplicates
 Standardized data formats
 3. Exploratory Data Analysis (EDA)
-Identified trends in customer purchases
-Analyzed frequency and spending patterns
+Analyzed customer purchase behavior
+Identified trends and patterns
 4. SQL Analysis
-Ran queries to extract insights like:
+Extracted insights such as:
 Top customers
-Most popular categories
+Popular product categories
 Revenue trends
 5. Dashboard Creation
 Built interactive dashboards in Power BI
 Visualized KPIs and customer segments
 6. Reporting
-Created summary report
-Designed presentation (PPT) using Gamma
+Prepared summary report
+Created presentation for insights
 📊 Dashboard
-Interactive Power BI dashboard showing:
-Sales trends 📈
-Customer segmentation 👥
-Purchase frequency 🔄
-Revenue insights 💰
+Displays:
+Sales trends
+Customer segmentation
+Purchase frequency
+Revenue insights
 📈 Results & Insights
 Identified key customer segments
-Discovered high-performing product categories
-Found patterns in purchase frequency
-Provided insights for improving customer retention
-▶️ How to Run
-1. Clone Repository
-git clone https://github.com/yourusername/project-name.git
-cd project-name
-2. Install Dependencies
-pip install pandas numpy sqlalchemy psycopg2
-3. Run Notebook
-Open Jupyter Notebook
-Execute all cells step by step
-4. View Dashboard
-Open Power BI file (.pbix)
-Or use embedded dashboard link
-📌 Conclusion
+Found high-performing categories
+Analyzed purchasing patterns
+Provided insights for improving business strategies
 
-This project demonstrates how data analysis can be used to understand customer behavior and support data-driven business decisions.
+This project demonstrates how data analysis techniques can be applied to understand customer behavior and support data-driven decisions.
